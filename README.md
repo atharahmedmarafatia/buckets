@@ -1,2 +1,3 @@
-composer install
-cpy .env file
+composer install  </br>
+cpy .env file </br>
+php artisan migrate
